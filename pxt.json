@@ -10,13 +10,14 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "main.py"
+        "main.py",
+        "tutorial-data-logger.md"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.18",
+        "target": "9.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
